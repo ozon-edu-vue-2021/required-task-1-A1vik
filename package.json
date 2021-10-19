@@ -22,7 +22,7 @@
     "homepage": "https://github.com/LenaVladi/route-256-broken-page.git#readme",
     "dependencies": {
         "list": "^2.0.18",
-        "reset.css": "2.0.2"
+        "reset-css": "5.0.0"
     },
     "devDependencies": {
         "husky": "2.4.0",
